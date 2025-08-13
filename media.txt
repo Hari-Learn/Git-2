@@ -1,0 +1,1 @@
+Auto detect the connected device by OS
