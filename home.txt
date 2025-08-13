@@ -1,0 +1,4 @@
+In Linux, the home directory is used to store user profiles along with their personal files and settings. 
+Typically, the root user (or system administrator) is responsible for creating new user accounts. 
+When a new user is created, a corresponding directory is usually created under /home, which contains all the user’s files, 
+configurations, and personal data.
